@@ -8,9 +8,11 @@ This project is a simple Pictionary game with a [FastAPI](https://fastapi.tiango
 
 This see this project working live please visit:
 
-[Frontend - Vercel](https://frl-frontend-chi.vercel.app/)
+> Render's free tier sleeps projects after 15mis of inactivity so please visit first this link and wait for the service to load and then visit the frontend.
 
 [Backend - Render](https://frl-backend.onrender.com/)
+
+[Frontend - Vercel](https://frl-frontend-chi.vercel.app/)
 
 ## Table of Contents
 
